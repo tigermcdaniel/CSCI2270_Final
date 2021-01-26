@@ -1,0 +1,32 @@
+﻿  driver.cpp
+C:\Users\tiger\OneDrive\Documents\CSCI2270\Final Project\Project2\Project2\driver.cpp(63,48): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\tiger\OneDrive\Documents\CSCI2270\Final Project\Project2\Project2\driver.cpp(88,54): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\tiger\OneDrive\Documents\CSCI2270\Final Project\Project2\Project2\driver.cpp(125,48): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\tiger\OneDrive\Documents\CSCI2270\Final Project\Project2\Project2\driver.cpp(148,50): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\tiger\OneDrive\Documents\CSCI2270\Final Project\Project2\Project2\driver.cpp(185,48): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\tiger\OneDrive\Documents\CSCI2270\Final Project\Project2\Project2\driver.cpp(209,48): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Project2.vcxproj -> C:\Users\tiger\OneDrive\Documents\CSCI2270\Final Project\Project2\Debug\Project2.exe
